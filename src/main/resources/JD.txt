@@ -1,0 +1,89 @@
+Job Summary: Java Full Stack Developer
+
+   We are going to develop innovative project as per our buisness need and required full stack developer 
+who can work on our project and it's maintainance process, your contribution in each and every phase of system must be required 
+and able to enjoy with team work.
+
+ Following are the basic requirements which are needed, even if you don't know some of required techniques, you can learn and apply it
+in our project.
+Years Of Experience : 2 to 6 years in web development
+
+Required Experience:
+-----------------------------
+Java 8+
+Spring Framework,Spring Boot
+Restful web services
+Xml,JSON parsing
+Version control system like Git,Svn
+project management and service desk tools like Maven, Jira, Redmine
+Cloud services like AWS, Azure, GCP
+Databases like Oracle/MySQL/DB2
+Web server like Tomcat Apache
+Experience with JavaScript, CSS, HTML and frameworks such as AngularJS.
+Analysis, design, coding, and implementation of complex, custom-built applications with Java/J2EE
+
+Desired Experience:
+---------------------------
+Angular with typescript language and
+should be familiar with Angular module and component feature and it's coupling in functional area.
+Experience on linux/unix system
+
+--------------------------------------------------------------
+
+
+Job Summary: Front End Developer (Angular and Typescript)
+
+	We are going to develop innovative project as per our buisness need and required front end
+developer having hands on experience with newer version of Angular,Typescript language and
+should be familiar with Angular module and component feature and it's coupling in funcational area 
+and will be responsible in designing and development phase of the system.
+
+Years Of Experience : 2 to 6 years in web development
+Required Exeperience
+-----------------------
+Deep knowledge of Angular practices and commonly used modules based on extensive work experience.
+Expertise in creating self-contained, reusable, and testable modules and components.
+Experience working with build tools such as NPM, Webpack, Gulp, Grunt
+Experience with JavaScript, CSS, HTML and frameworks such as AngularJS.
+Should understand the product design lifecycle.
+Able to work with team(back-end and front-end developer)and communicate with the API using standard methods by
+understanding the necessary buisness logic for project development. 
+
+Desired Experience
+----------------------
+AWS technologies like ECS, S3, CloudFront, RDS, Aurora and other cloud services like Azure, GCP
+map libraries such as MapBox, Leaflet would be desirable
+Experience on linux/unix system
+
+
+
+------------------------------------------------
+
+Job Summary: Back End Developer (Java 8+, Spring Boot)
+
+ We are going to develop innovative project as per our buisness need and required full stack developer 
+who can work on our project and it's maintainance process, your contribution in each and every phase of system must be required 
+and able to enjoy with team work.
+
+ Following are the basic requirements which are needed, even if you don't know some of required techniques, you can learn and apply it
+in our project.
+Years Of Experience : 2 to 6 years in web development
+
+Required Experience:
+-----------------------------
+Java 8+
+Spring Framework,Spring Boot
+Restful web services
+Xml,JSON parsing
+Version control system like Git,Svn
+project management and service desk tools like Maven, Jira, Redmine
+Cloud services like AWS, Azure, GCP
+Databases like Oracle/MySQL/DB2
+Web server like Tomcat Apache
+
+Desired Experience 
+----------------
+Experience on linux/unix system
+
+
+ 
